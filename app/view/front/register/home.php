@@ -106,12 +106,12 @@ button {
       <p><b>Password</b></p>
       <input name="phoneNumber" type"tel" class="LoginForm_phone__1L-vR form-control" placeholder="Masukan Password Anda" autocomplete="off" value>
       <p><b>konfirmasi Password</b></p>
-      <input name="phoneNumber" type"tel" class="LoginForm_phone__1L-vR form-control" placeholder="Msukan Ulang passowrd anda" autocomplete="off" value>
+      <input name="phoneNumber" type"tel" class="LoginForm_phone__1L-vR form-control" placeholder="Masukan Ulang passowrd anda" autocomplete="off" value>
     </form>
     <p style="font-size:10px; padding-top:15px;">Dengan menekan tombol daftar anda berarti setuju terhadap <b style="color:#1ce002;">Kebijakan layanan</b> kami serta <b style="color:#1ce002;">Kondisi dan syarat pengguna</b> Aplikasi ini</p>
     <div class="LoginFrom_SubmitDiv__3-DdM text-center">
       <button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp">DAFTAR</button>
     </div>
-    <p class="text-center" style="font-size:17px; padding-top:15px;">Sudah pernah daftar?Silahkan <b style="color:#1ce002;">Lohin</b></p>
+    <p class="text-center" style="font-size:17px; padding-top:15px;">Sudah pernah daftar?Silahkan <b style="color:#1ce002;">Login</b></p>
   </div>
 </div>

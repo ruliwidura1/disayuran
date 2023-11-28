@@ -105,7 +105,7 @@ button {
       <input name="phoneNumber" type"tel" class="LoginForm_phone__1L-vR form-control" placeholder="Masukan Password Anda" autocomplete="off" value>
       <br />
       <div class="LoginFrom_SubmitDiv__3-DdM text-center">
-        <button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp">LOGIn</button>
+        <button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp">LOGIN</button>
       </div>
       <p class="daftar text-center">Belum pernah daftar?silahkan <a href="register"><b style="color:#00ff26;">Daftar</b></a> dulu</p>
     </form>

@@ -21,30 +21,30 @@ label {
 </style>
 <div class="container">
   <div class="row text-center">
-
-    <div class="col">
-      <a href="berkahjaya"><img src="media/kasandra1.png" class="img-fluid"></a>
-      <stong class="text-black-50 ukuran">Kasandra</strong>
-    </div>
-
-    <div class="col">
-      <img src="media/hotel.png" class="img-fluid">
-      <stong class="text-black-50 ukuran">Al Tijaroh</strong>
-
-    </div>
-    <div class="col">
-      <img src="media/hotel1.png" class="img-fluid">
-      <stong class="text-black-50 ukuran">Berkah Jaya</strong>
-
-    </div>
-    <div class="col">
-      <img src="media/untung.png" class="img-fluid">
-      <stong class="text-black-50 ukuran">Pada Untung</strong>
+    <div class="col-md-12">
+      <img src="media/kasandra1.png" class="img-fluid">
+      <p class="text-black-50 ukuran">Caringin, Kota Bandung</p>
+      <p class="text-body lh-1 fs-2">Berkah Jaya</p>
+      <p class="text-black-50 lh-1">Selamat Berbelanja di Toko Berkah Jaya kami menyediakan baerbagai sayuran Buah-buahan dan bumbu masakan.</p>
 
     </div>
   </div>
 </div>
-
+<div class="row text-center"style="padding-top:20px;">
+  <div class="col-md-12" style="border-bottom: 2px solid #f0f0f0; background-color:lightgrey;">
+  </div>
+</div>
+<br />
+<div class="container">
+  <div class="row text-center">
+    <div class="col">
+      <button type="button" class="btn btn-success">Berlangganan</button>
+    </div>
+    <div class="col">
+      <button type="button" class="btn btn-secondary">Tanya Penjual</button>
+    </div>
+  </div>
+</div>
 <div class="row text-center"style="padding-top:20px;">
   <div class="col-md-12" style="border-bottom: 2px solid #f0f0f0; background-color:lightgrey;">
   </div>
@@ -57,19 +57,19 @@ label {
 <div class="container">
   <div class="row">
     <div class="col">
-      <img src="media/jeruk.png" class="img-fluid">
+      <img src="media/polos.png" class="img-fluid">
       <p class="text-black-50 ukuran">Buah-buahan</p>
       <stong>Jeruk Ponkan Import</strong>
         <p class="text-danger"><b>Rp. 4.000</b></p>
       </div>
       <div class="col">
-        <img src="media/royco.png" class="img-fluid">
+        <img src="media/polos.png" class="img-fluid">
         <p class="text-black-50 ukuran">Bumbu</p>
         <stong>Royco Ayam Bawang</strong>
           <p class="text-danger"><b>Rp. 12.000</b></p>
         </div>
         <div class="col">
-          <img src="media/rawit.png" class="img-fluid">
+          <img src="media/polos.png" class="img-fluid">
           <p class="text-black-50 ukuran">Sayur</p>
           <stong>Cabe Rawit Local</strong>
             <p class="text-danger"><b>Rp. 28.000</b></p>
@@ -88,14 +88,14 @@ label {
       <div class="container">
         <div class="row">
           <div class="col">
-            <img src="media/caberawit.png" class="img-fluid">
+            <img src="media/polos.png" class="img-fluid">
             <p class="text-black-50 ukuran">Sayur</p>
 
             <stong>Cabe gendot Lokal</strong>
               <p class="text-danger ukuran"><b>Rp. 28.000</b></p>
             </div>
             <div class="col">
-              <img src="media/royco.png" class="img-fluid">
+              <img src="media/polos.png" class="img-fluid">
               <p class="text-black-50 ukuran">Bumbu</p>
 
               <stong>Royco Ayam Bawang</strong>
@@ -103,7 +103,7 @@ label {
 
               </div>
               <div class="col">
-                <img src="media/jeruk.png" class="img-fluid">
+                <img src="media/polos.png" class="img-fluid">
                 <p class="text-black-50 ukuran">Buah-buahan</p>
                 <stong>Jeruk Ponkan Import</strong>
                   <p class="text-danger"><b>Rp. 4.000</b></p>
