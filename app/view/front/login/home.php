@@ -65,10 +65,21 @@
   color:#00ff26;
   font-size:15px;
 }
-
+button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+.btn-primary{
+  background-color:#1ce002;
+}
 </style>
 <br />
-<div class="row">
+<div class="row" style="margin:0px;">
   <div class="col-md-12 text-center">
     <img src="media/sayurlogin.png" class="responsive" style="max-width:100%;height:auto;">
   </div>
@@ -84,19 +95,19 @@
   <div class="col-md-12">
   </div>
 </div>
-<div class="row">
+<div class="row" style="margin:0px;">
   <div class="col-md-12">
     <form action="#">
-      <p>Email/Telp</p>
+      <p><b>Email/Telp</b></p>
       <input name="phoneNumber" type"tel" class="LoginForm_phone__1L-vR form-control" placeholder="Masukan Email Anda" autocomplete="off" value>
       <p class="lupa">Lupa Password?</p>
-      <p>Password</p>
+      <p><b>Password</b></p>
       <input name="phoneNumber" type"tel" class="LoginForm_phone__1L-vR form-control" placeholder="Masukan Password Anda" autocomplete="off" value>
       <br />
       <div class="LoginFrom_SubmitDiv__3-DdM text-center">
         <button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp">LOGIn</button>
       </div>
-      <p class="daftar text-center">Belum pernah daftar?silahkan <b style="color:#00ff26;">Daftar</b> dulu</p>
+      <p class="daftar text-center">Belum pernah daftar?silahkan <a href="register"><b style="color:#00ff26;">Daftar</b></a> dulu</p>
     </form>
   </div>
 </div>
