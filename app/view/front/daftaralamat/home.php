@@ -45,7 +45,7 @@ button {
   </div>
 </div>
 <div class="LoginFrom_SubmitDiv__3-DdM text-center">
-  <button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp">TAMBAH  ALAMAT BARU</button>
+  <a href="tambah_alamat"><button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp">TAMBAH  ALAMAT BARU</button></a>
 </div>
 <br />
 <div class="row text-center" style="border-bottom: 2px solid #f0f0f0;">

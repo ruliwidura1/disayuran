@@ -57,7 +57,7 @@ label {
 <div class="container">
   <div class="row">
     <div class="col">
-      <img src="media/polos.png" class="img-fluid">
+      <a href="detail1"><img src="media/polos.png" class="img-fluid"></a>
       <p class="text-black-50 ukuran">Buah-buahan</p>
       <stong>Jeruk Ponkan Import</strong>
         <p class="text-danger"><b>Rp. 4.000</b></p>
