@@ -8,9 +8,9 @@ p.ridge {border-style: ridge;}
     <div class="row">
       <div class="col-md-12">
         <img src="media/sayurbuah.png" class="img-fluid">
-        </div>
       </div>
     </div>
+  </div>
   <div class="container">
     <div class="row">
       <div class="col-md-12">
@@ -51,11 +51,9 @@ p.ridge {border-style: ridge;}
             <input type="text" class="form-control" aria-label="Text input with dropdown button">
             <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"></button>
             <ul class="dropdown-menu dropdown-menu-end">
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#"></a></li>
+              <li><a class="dropdown-item" href="#">Kutawaringin</a></li>
+              <li><a class="dropdown-item" href="#">Soreang</a></li>
+              <li><a class="dropdown-item" href="#">Baleendah</a></li>
             </ul>
           </div>
 
@@ -63,36 +61,27 @@ p.ridge {border-style: ridge;}
           <div class="input-group mb-3">
             <input type="text" class="form-control" aria-label="Text input with dropdown button">
             <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"></button>
-            <ul class="dropdown-menu dropdown-menu-end">
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#"></a></li>
+            <ul class="dropdown-menu dropdown-menu-end"><li><a class="dropdown-item" href="#">Kutawaringin</a></li>
+            <li><a class="dropdown-item" href="#">Soreang</a></li>
+            <li><a class="dropdown-item" href="#">Baleendah</a></li>
             </ul>
           </div>
           <label for="exampleInputPassword1" class="form-label"><b>Kab.Kota</b></label>
           <div class="input-group mb-3">
             <input type="text" class="form-control" aria-label="Text input with dropdown button">
             <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"></button>
-            <ul class="dropdown-menu dropdown-menu-end">
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#"></a></li>
+            <ul class="dropdown-menu dropdown-menu-end"><li><a class="dropdown-item" href="#">Kutawaringin</a></li>
+            <li><a class="dropdown-item" href="#">Soreang</a></li>
+            <li><a class="dropdown-item" href="#">Baleendah</a></li>
             </ul>
           </div>
           <label for="exampleInputPassword1" class="form-label"><b>Provinsi</b></label>
           <div class="input-group mb-3">
             <input type="text" class="form-control" aria-label="Text input with dropdown button">
             <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"></button>
-            <ul class="dropdown-menu dropdown-menu-end">
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#"></a></li>
+            <ul class="dropdown-menu dropdown-menu-end"><li><a class="dropdown-item" href="#">Kutawaringin</a></li>
+            <li><a class="dropdown-item" href="#">Soreang</a></li>
+            <li><a class="dropdown-item" href="#">Baleendah</a></li>
             </ul>
           </div>
 
@@ -100,12 +89,9 @@ p.ridge {border-style: ridge;}
           <div class="input-group mb-3">
             <input type="text" class="form-control" aria-label="Text input with dropdown button">
             <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"></button>
-            <ul class="dropdown-menu dropdown-menu-end">
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#"></a></li>
+            <ul class="dropdown-menu dropdown-menu-end"><li><a class="dropdown-item" href="#">Kutawaringin</a></li>
+            <li><a class="dropdown-item" href="#">Soreang</a></li>
+            <li><a class="dropdown-item" href="#">Baleendah</a></li>
             </ul>
           </div>
 
@@ -113,12 +99,9 @@ p.ridge {border-style: ridge;}
           <div class="input-group mb-3">
             <input type="text" class="form-control" aria-label="Text input with dropdown button">
             <button class="btn btn-outline-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false"></button>
-            <ul class="dropdown-menu dropdown-menu-end">
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><a class="dropdown-item" href="#"></a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#"></a></li>
+            <ul class="dropdown-menu dropdown-menu-end"><li><a class="dropdown-item" href="#">Kutawaringin</a></li>
+            <li><a class="dropdown-item" href="#">Soreang</a></li>
+            <li><a class="dropdown-item" href="#">Baleendah</a></li>
             </ul>
           </div>
           <div class="mb-3">
@@ -132,7 +115,9 @@ p.ridge {border-style: ridge;}
         <a href="https://www.google.com/maps/place/Cipta+Esensi+Merenah/@-6.9992881,107.5175021,17z/data=!3m1!4b1!4m6!3m5!1s0x2e68efb143f15495:0xde32acdfe4690a35!8m2!3d-6.9992881!4d107.5175021!16s%2Fg%2F11j1k35_3j?entry=ttu"></a>
         <br />
         <br />
+        <a href="dashboard">
         <button type="submit" class="btn btn-success">Simpan Alamat</button>
+      </a>
       </form>
     </div>
   </body>

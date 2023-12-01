@@ -16,6 +16,7 @@ class Register extends JI_Controller
 
     $data['hello'] = "this is from controller";
 
+    $this->putJsContent("register/home_modal",$data); //pass data to view
     $this->putThemeContent("register/home",$data); //pass data to view
     $this->putJsContent("register/home_bottom",$data); //pass data to view
 

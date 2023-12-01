@@ -24,32 +24,32 @@ p.ridge {border-style: ridge;}
       <div class="col">
         <img src="media/location.png" class="img-fluid">
         <a href="daftaralamat"><p class="text-success ukuran">Kelola Alamat</p></a>
-        </div>
-        <div class="col">
-          <img src="media/profilicon.png" class="img-fluid">
-          <a href="#"><p class="text-success ukuran">Ganti Poto Profil</p></a>
-
-          </div>
-        </div>
       </div>
-    </body>
-    </html>
-    <br />
-    <br />
-    <br />
-    <div class="row text-center" style="border-bottom: 2px solid #f0f0f0;">
-      <div class="col-md-12">
-        <a href="home" style="padding-right:37px; padding-left:9px;">
-          <img src="media/homeicon.png" class="responsive" style="max-width:100%;height:auto;">
-        </a>
-        <a href="identitas" style="padding-right:45px;">
-          <img src="media/listicon.png" class="responsive" style="max-width:100%;height:auto;">
-        </a>
-        <a href="#" style="padding-right:45px;">
-          <img src="media/favoriticon.png" class="responsive" style="max-width:100%;height:auto;">
-        </a>
-        <a href="login" style="padding-right:40px;">
-          <img src="media/profilicon.png" class="responsive" style="max-width:100%;height:auto;">
-        </a>
+      <div class="col">
+        <img src="media/profilicon.png" class="img-fluid">
+        <a href="#"><p class="text-success ukuran">Ganti Poto Profil</p></a>
+
       </div>
     </div>
+  </div>
+</body>
+</html>
+<br />
+<br />
+<br />
+<div class="row text-center" style="border-bottom: 2px solid #f0f0f0;">
+  <div class="col-md-12">
+    <a href="home" style="padding-right:37px; padding-left:9px;">
+      <img src="media/homeicon.png" class="responsive" style="max-width:100%;height:auto;">
+    </a>
+    <a href="identitas" style="padding-right:45px;">
+      <img src="media/listicon.png" class="responsive" style="max-width:100%;height:auto;">
+    </a>
+    <a href="#" style="padding-right:45px;">
+      <img src="media/favoriticon.png" class="responsive" style="max-width:100%;height:auto;">
+    </a>
+    <a href="login" style="padding-right:40px;">
+      <img src="media/profilicon.png" class="responsive" style="max-width:100%;height:auto;">
+    </a>
+  </div>
+</div>

@@ -35,7 +35,7 @@ button {
 <br />
 <div class="container">
   <div class="row text-center">
-    <img src="media/gendot1.jpg" class="img-fluid">
+    <img src="media/rambutan-buah.png" class="img-fluid">
     <div class="col-md-12">
     </div>
   </div>

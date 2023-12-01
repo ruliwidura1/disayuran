@@ -57,19 +57,19 @@ label {
 <div class="container">
   <div class="row">
     <div class="col">
-      <a href="detail1"><img src="media/polos.png" class="img-fluid"></a>
+      <a href="detail1"><img src="media/buahrambutan.png" class="img-fluid"></a>
       <p class="text-black-50 ukuran">Buah-buahan</p>
       <stong>Jeruk Ponkan Import</strong>
         <p class="text-danger"><b>Rp. 4.000</b></p>
       </div>
       <div class="col">
-        <img src="media/polos.png" class="img-fluid">
+        <img src="media/carolina.png" class="img-fluid">
         <p class="text-black-50 ukuran">Bumbu</p>
         <stong>Royco Ayam Bawang</strong>
           <p class="text-danger"><b>Rp. 12.000</b></p>
         </div>
         <div class="col">
-          <img src="media/polos.png" class="img-fluid">
+          <img src="media/bumbukaredok.png" class="img-fluid">
           <p class="text-black-50 ukuran">Sayur</p>
           <stong>Cabe Rawit Local</strong>
             <p class="text-danger"><b>Rp. 28.000</b></p>
@@ -88,14 +88,14 @@ label {
       <div class="container">
         <div class="row">
           <div class="col">
-            <img src="media/polos.png" class="img-fluid">
+            <img src="media/daunbawang.png" class="img-fluid">
             <p class="text-black-50 ukuran">Sayur</p>
 
             <stong>Cabe gendot Lokal</strong>
               <p class="text-danger ukuran"><b>Rp. 28.000</b></p>
             </div>
             <div class="col">
-              <img src="media/polos.png" class="img-fluid">
+              <img src="media/bawangputih.png" class="img-fluid">
               <p class="text-black-50 ukuran">Bumbu</p>
 
               <stong>Royco Ayam Bawang</strong>
@@ -103,7 +103,7 @@ label {
 
               </div>
               <div class="col">
-                <img src="media/polos.png" class="img-fluid">
+                <img src="media/bawangmerah.png" class="img-fluid">
                 <p class="text-black-50 ukuran">Buah-buahan</p>
                 <stong>Jeruk Ponkan Import</strong>
                   <p class="text-danger"><b>Rp. 4.000</b></p>
@@ -123,7 +123,7 @@ label {
                   <img src="media/favoriticon.png" class="responsive" style="max-width:100%;height:auto;">
                 </a>
                 <a href="login" style="padding-right:40px;">
-                  <img src="media/favoriticon.png" class="responsive" style="max-width:100%;height:auto;">
+                  <img src="media/usericon.png" class="responsive" style="max-width:100%;height:auto;">
 
                 </a>
               </div>

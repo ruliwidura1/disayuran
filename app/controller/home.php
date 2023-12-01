@@ -9,10 +9,10 @@ class Home extends JI_Controller
   public function index()
   {
     $data = array();
-    $this->setTitle('Seme Framework Introduction!');
+    $this->setTitle('Disayuran');
     $this->setDescription("Congratulation, you have done well.");
-    $this->setKeyword('Seme Framework');
-    $this->setAuthor('Seme Framework');
+    $this->setKeyword('Disayuran');
+    $this->setAuthor('Disayuran');
 
     $data['hello'] = "this is from controller";
 
