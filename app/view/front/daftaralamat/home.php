@@ -32,6 +32,16 @@ button {
   border-color: #1ce002;
 }
 </style>
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="input-group">
+        <input type="search" class="form-control rounded" placeholder="Apa yang anda cari ?" aria-label="Search" aria-describedby="search-addon" />
+        <a href="#"><img src="media/keranjang3.png" class="img-fluid"><a/>
+        </div>
+      </div>
+    </div>
+  </div>
 <div class="row text-center">
   <div class="col-md-12" style="border-bottom: 2px solid #f0f0f0; background-color:lightgrey;">
   </div>

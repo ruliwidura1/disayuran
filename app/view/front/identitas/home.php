@@ -2,7 +2,18 @@
 p.ridge {border-style: ridge;}
 </style>
 </head>
-<body>
+<br />
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="input-group">
+        <input type="search" class="form-control rounded" placeholder="Apa yang anda cari ?" aria-label="Search" aria-describedby="search-addon" />
+        <a href="#"><img src="media/keranjang3.png" class="img-fluid"></a>
+      </div>
+    </div>
+  </div>
+</div>
+<body><br />
   <div class="row" style="margin:0px;">
     <div class="col-md-12">
       <p class="ridge"><b>Edwin Fhitmansyah</b><a style="padding-left:150px; color:#38ff00;">Ganti</a></p>
@@ -49,7 +60,8 @@ p.ridge {border-style: ridge;}
       <img src="media/favoriticon.png" class="responsive" style="max-width:100%;height:auto;">
     </a>
     <a href="login" style="padding-right:40px;">
-      <img src="media/profilicon.png" class="responsive" style="max-width:100%;height:auto;">
+      <img src="media/usericon.png" class="responsive" style="max-width:100%;height:auto;">
+
     </a>
   </div>
 </div>

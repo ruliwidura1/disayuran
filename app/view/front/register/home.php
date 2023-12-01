@@ -112,6 +112,6 @@ button {
     <div class="LoginFrom_SubmitDiv__3-DdM text-center">
       <button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp">DAFTAR</button>
     </div>
-    <p class="text-center" style="font-size:17px; padding-top:15px;">Sudah pernah daftar?Silahkan <b style="color:#1ce002;">Login</b></p>
+    <p class="text-center" style="font-size:17px; padding-top:15px;">Sudah pernah daftar?Silahkan <b style="color:#1ce002;"><a href="login">Login</a></b></p>
   </div>
 </div>

@@ -32,6 +32,16 @@ button {
   border-color: #1ce002;
 }
 </style>
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="input-group">
+        <input type="search" class="form-control rounded" placeholder="Apa yang anda cari ?" aria-label="Search" aria-describedby="search-addon" />
+        <a href="#"><img src="media/keranjang3.png" class="img-fluid"><a/>
+        </div>
+      </div>
+    </div>
+  </div>
 <br />
 <div class="container">
   <div class="row text-center">
@@ -130,7 +140,8 @@ button {
           <img src="media/favoriticon.png" class="responsive" style="max-width:100%;height:auto;">
         </a>
         <a href="login" style="padding-right:40px;">
-          <img src="media/favoriticon.png" class="responsive" style="max-width:100%;height:auto;">
+          <img src="media/usericon.png" class="responsive" style="max-width:100%;height:auto;">
+
         </a>
       </div>
     </div>

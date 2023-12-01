@@ -20,11 +20,21 @@ label {
 }
 </style>
 <div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="input-group">
+        <input type="search" class="form-control rounded" placeholder="Apa yang anda cari ?" aria-label="Search" aria-describedby="search-addon" />
+        <a href="#"><img src="media/keranjang3.png" class="img-fluid"><a/>
+        </div>
+      </div>
+    </div>
+  </div><br />
+<div class="container">
   <div class="row text-center">
     <div class="col-md-12">
       <img src="media/kasandra1.png" class="img-fluid">
       <p class="text-black-50 ukuran">Caringin, Kota Bandung</p>
-      <p class="text-body lh-1 fs-2">Berkah Jaya</p>
+      <p class="text-body lh-1 fs-2"><b>Berkah Jaya</b></p>
       <p class="text-black-50 lh-1">Selamat Berbelanja di Toko Berkah Jaya kami menyediakan baerbagai sayuran Buah-buahan dan bumbu masakan.</p>
 
     </div>
