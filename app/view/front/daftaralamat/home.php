@@ -42,28 +42,28 @@ button {
       </div>
     </div>
   </div>
-<div class="row text-center">
-  <div class="col-md-12" style="border-bottom: 2px solid #f0f0f0; background-color:lightgrey;">
-  </div>
-</div>
-<div class="row"style="padding-top:20px; padding-left:20px; color:#2aff00;">
-  <div class="col-md-12">
-  </div>
-</div>
-<div class="row"style="padding-left:20px;">
-  <div class="col-md-12">
-    <p class="fw-bolder text-primary">DAFTAR ALAMAT SAYA</p>
+  <div class="row text-center">
+    <div class="col-md-12" style="border-bottom: 2px solid #f0f0f0; background-color:lightgrey;">
     </div>
   </div>
-<div class="row text-center">
-  <div class="col-md-12" style="border-bottom: 2px solid #f0f0f0; background-color:lightgrey;">
+  <div class="row"style="padding-top:20px; padding-left:20px; color:#2aff00;">
+    <div class="col-md-12">
+    </div>
   </div>
-</div>
-<div class="row"style="padding-left:20px;">
-  <div class="col-md-12">
-    <p class="fw-bolder">Rumah</p>
-    <p class="lh-1"><b>Edwin Fhirmansyah</b> (+628581300200) Kp.Tegalbunga no 15 RT 02 RW 08 Gg. H Zein, deket pom mini kel. Coblong, Kec. Coblong Kota Bandung, Jawa Barat Indonesia 40100</p>
-    <stong>Catatan: <i>Titip Security</i></strong>
+  <div class="row"style="padding-left:20px;">
+    <div class="col-md-12">
+      <p class="fw-bolder text-primary">DAFTAR ALAMAT SAYA</p>
+    </div>
+  </div>
+  <div class="row text-center">
+    <div class="col-md-12" style="border-bottom: 2px solid #f0f0f0; background-color:lightgrey;">
+    </div>
+  </div>
+  <div class="row"style="padding-left:20px;">
+    <div class="col-md-12">
+      <p class="fw-bolder">Rumah</p>
+      <p class="lh-1"><b>Edwin Fhirmansyah</b> (+628581300200) Kp.Tegalbunga no 15 RT 02 RW 08 Gg. H Zein, deket pom mini kel. Coblong, Kec. Coblong Kota Bandung, Jawa Barat Indonesia 40100</p>
+      <strong>Catatan: <i>Titip Security</i></strong>
     </div>
   </div>
   <div class="row text-center">
@@ -74,9 +74,9 @@ button {
     <div class="col-md-12">
       <p class="fw-bolder">Kantor</p>
       <p class="lh-1"><b>Edwin Fhirmansyah</b> (+628581300200) Kp.Tegalbunga no 15 RT 02 RW 08 Gg. H Zein, deket pom mini kel. Coblong, Kec. Coblong Kota Bandung, Jawa Barat Indonesia 40100</p>
-      <stong>Catatan: <i>Titip Security</i></strong>
-      </div>
+      <strong>Catatan: <i>Titip Security</i></strong>
     </div>
+  </div>
   <div class="row text-center">
     <div class="col-md-12" style="border-bottom: 2px solid #f0f0f0; background-color:lightgrey;">
     </div>
@@ -85,17 +85,17 @@ button {
     <div class="col-md-12">
       <p class="fw-bolder">Mertua</p>
       <p class="lh-1"><b>Edwin Fhirmansyah</b> (+628581300200) Kp.Tegalbunga no 15 RT 02 RW 08 Gg. H Zein, deket pom mini kel. Coblong, Kec. Coblong Kota Bandung, Jawa Barat Indonesia 40100</p>
-      <stong>Catatan: <i>Titip Security</i></strong>
-      </div>
+      <strong>Catatan: <i>Titip Security</i></strong>
     </div>
+  </div>
   <div class="row text-center">
     <div class="col-md-12" style="border-bottom: 2px solid #f0f0f0; background-color:lightgrey;">
     </div>
   </div>
   <div class="LoginFrom_SubmitDiv__3-DdM text-center">
     <a href="tambah_alamat">
-    <button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp">TAMBAH ALAMAT BARU</button>
-  </a>
+      <button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp">TAMBAH ALAMAT BARU</button>
+    </a>
   </div>
   <div class="row text-center" style="border-bottom: 2px solid #f0f0f0;">
     <div class="col-md-12">

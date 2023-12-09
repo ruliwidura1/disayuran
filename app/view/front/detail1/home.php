@@ -31,6 +31,20 @@ button {
   background-color:#1ce002;
   border-color: #1ce002;
 }
+.ellipsis-container {
+  overflow: hidden;
+  white-space: nowrap;
+}
+.ellipsis-container {
+  width: 120px; /* Set the width of your container */
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.ellipsis-text {
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
 </style>
 <div class="container">
   <div class="row">
@@ -45,7 +59,7 @@ button {
 <br />
 <div class="container">
   <div class="row text-center">
-    <img src="media/rambutan-buah.png" class="img-fluid">
+    <img src="media/polosan2.png" class="img-fluid">
     <div class="col-md-12">
     </div>
   </div>
@@ -63,7 +77,9 @@ button {
   <div class="row">
     <div class="col">
       <p class="text-black-50 ukuran">Buah-buahan</p>
-      <stong>Cabe Gendot Lokal</strong>
+      <div class="ellipsis-container">
+        <p class="ellipsis-text">Bumbu Racik Tempe Goreng</p>
+      </div>
         <p class="text-danger"><b>Rp. 30.000</b></p>
         <p class="text-body">/Kg</p>
       </div>
@@ -115,7 +131,7 @@ button {
     <div class="container">
       <div class="row">
         <div class="col">
-          <img src="media/kasandra2.png" class="img-fluid">
+          <img src="media/polosan.png" class="img-fluid">
           <strong class="fs-2" style="padding-left:30px;">Berkah Jaya</strong>
         </div>
       </div>
