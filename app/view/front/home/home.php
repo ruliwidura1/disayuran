@@ -47,20 +47,20 @@ label {
   <div class="container">
     <div class="row text-center">
       <div class="col">
-        <a href="berkahjaya"><img src="media/polosan.png" class="img-fluid"></a>
+        <a href="berkahjaya"><img src="media/kasandra1.png" class="img-fluid"></a>
+        <p class="text-black-50 ukuran">Kasandra</p>
+      </div>
+      <div class="col">
+        <a href="berkahjaya"><img src="media/al_tijaroh.png" class="img-fluid"></a>
+        <p class="text-black-50 ukuran">Al Tijaroh</p>
+      </div>
+      <div class="col">
+        <a href="berkahjaya"><img src="media/berkah_jaya.png" class="img-fluid"></a>
         <p class="text-black-50 ukuran">Berkah Jaya</p>
       </div>
       <div class="col">
         <a href="berkahjaya"><img src="media/polosan.png" class="img-fluid"></a>
-        <p class="text-black-50 ukuran">Al Tijaroh</p>
-      </div>
-      <div class="col">
-        <a href="berkahjaya"><img src="media/polosan.png" class="img-fluid"></a>
         <p class="text-black-50 ukuran">Pada Untung</p>
-      </div>
-      <div class="col">
-        <a href="berkahjaya"><img src="media/polosan.png" class="img-fluid"></a>
-        <p class="text-black-50 ukuran">Kasandra</p>
       </div>
     </div>
   </div>
@@ -194,7 +194,7 @@ label {
           <p class="text-black-50 ukuran ellipsis-text">Sayuran</p>
         </div>
         <div class="ellipsis-container">
-          <p class="ellipsis-text">kol</p>
+          <p class="ellipsis-text">Sayuran Kol</p>
         </div>
         <p class="text-danger"><b>Rp. 12.000</b></p>
       </div>

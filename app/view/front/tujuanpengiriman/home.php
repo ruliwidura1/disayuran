@@ -196,7 +196,84 @@
   </div>
   <div class="row">
     <div class="col">
-      <h4 class="fw-bolder">Cara Bayar</h4>
+      <h4 class="fw-bolder text-primary">Cara Bayar</h4>
     </div>
   </div>
+  <div class="container">
+    <div class="row lh-1 border border-1" style="background-color:#e1e1e1;" >
+      <div class="col"><p class="lh-sm">
+        <p class=""><b>Manual Transfer</b></p>
+        <p class="">Pembayaran Viatransfer bank ke salah satu rekening bank kami</p>
+        <p class=""><b>Pilih Bank</b></p>
+        <div class="input-group mb-3">
+          <select class="form-select" id="inputGroupSelect01">
+            <option selected>Bank Mandiri</option>
+            <option value="1">BCA</option>
+            <option value="2">BRI</option>
+            <option value="3">BNI</option>
+          </select>
+        </div>
+        <p class="">Cara pembayaran dan nomor rekening akan tampil setelah menyelesaikan pesanan dan dikirim melalui email.</p>
+      </div>
+    </div>
+  </div>
+  <br />
+  <div class="container">
+    <div class="row lh-1 border border-1" style="background-color:#e1e1e1;" >
+      <div class="col"><p class="lh-sm">
+        <p class=""><b>Bayar Pas Diterima</b></p>
+        <p class="">Bayar ketika bertemu kurir ditempat pengiriman</p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <h4 class="fw-bolder text-primary">Ringkasan Pemesanan</h4>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <span class="border">
+        <strong class="text-body">Sub Total</strong>
+        <strong class=""><i style="padding-left:190px; color:#fc7001;">Rp. 330.000</i></strong>
+      </span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <span class="border">
+        <strong class="text-body">Ongkir</strong>
+        <strong class=""><i style="padding-left:220px; color:#fc7001;">Rp. 56.000</i></strong>
+      </span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <span class="border">
+        <strong class="text-body">Biaya Admin</strong>
+        <strong class=""><i style="padding-left:185px; color:#fc7001;">Rp. 7.000</i></strong>
+      </span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <span class="border">
+        <strong class="text-body ">Diskon</strong>
+        <strong class=""><i style="padding-left:220px; color:#fc7001;">Rp. 63.000</i></strong>
+      </span>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      <span class="border">
+        <strong class="text-body">Total Pembayaran</strong>
+        <strong class="" ><i style="padding-left:128px; color:#fc7001;">Rp. 456.000</i></strong>
+      </span>
+    </div>
+  </div>
+  <br />
+  <div class="LoginFrom_SubmitDiv__3-DdM text-center" style="margin:0px;">
+    <button type="submit" class="btn btn-success LoginFrom_submitBtn__2dCnp" style="padding-left:93px; padding-right:93px;">Pesan Sekarang</button>
+  </div>
+  <br />
 </div>

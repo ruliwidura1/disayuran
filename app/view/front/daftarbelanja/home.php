@@ -209,7 +209,7 @@ label {
       </div>
     </div>
     <div class="LoginFrom_SubmitDiv__3-DdM text-center" style="margin:0px;">
-      <button type="submit" class="btn btn-success LoginFrom_submitBtn__2dCnp" style="padding-left:93px; padding-right:93px;">Pilih Alamat Pengiriman</button>
+      <button type="submit" class="btn btn-success LoginFrom_submitBtn__2dCnp" style="padding-left:80px; padding-right:93px;">Pilih Alamat Pengiriman</button>
     </div>
     <br />
   </div>
