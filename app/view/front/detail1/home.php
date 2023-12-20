@@ -142,7 +142,7 @@ button {
       </div>
     </div>
     <div class="LoginFrom_SubmitDiv__3-DdM text-center" style="margin:0px;">
-      <button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp">+ Ke Daftar Belanjaan</button>
+      <button type="submit" class="btn btn-primary LoginFrom_submitBtn__2dCnp btn-add-to-cart">+ Ke Daftar Belanjaan</button>
     </div>
     <div class="row text-center" style="border-bottom: 2px solid #f0f0f0;">
       <div class="col-md-12">

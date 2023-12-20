@@ -16,6 +16,7 @@ class Detail1 extends JI_Controller
 
     $data['hello'] = "this is from controller";
 
+    $this->putThemeContent("detail1/home_modal",$data);
     $this->putThemeContent("detail1/home",$data); //pass data to view
     $this->putJsContent("detail1/home_bottom",$data); //pass data to view
 
